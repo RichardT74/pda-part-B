@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4073e7a3-237d-4242-bd19-aefe9f1cd404" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../../week_11/day_2/arrays_arraylists/arrays_end_point/ArraysEndPoint.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../week_11/day_2/multiple_classes_lab/multiple_classes_lab_solution/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../week_11/day_2/multiple_classes_lab/multiple_classes_lab_solution/.idea/libraries/Maven__junit_junit_4_13_beta_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../week_11/day_2/multiple_classes_lab/multiple_classes_lab_solution/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../week_11/day_2/multiple_classes_lab/multiple_classes_lab_solution/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../week_11/day_2/multiple_classes_lab/multiple_classes_lab_solution/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../week_11/day_2/multiple_classes_lab/multiple_classes_lab_solution/BusStop.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../week_11/day_3/cc_towers/cc_towers_solution/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../week_11/day_4/algorithms/AlgorithmsEndPoint/AlgorithmsEndPoint.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../week_11/day_4/enums_lab/enums_lab_solution/.idea/libraries/Maven__junit_junit_4_13_beta_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../week_11/day_4/enums_lab/enums_lab_solution/.idea/modules/enums_lab_solution.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../week_12/day_1/abstract_classes/.idea/abstract_classes.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../week_12/day_1/abstract_classes/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../week_12/day_1/employee_lab/EmployeeLab/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../week_12/day_2/homework/ThemeParkStartPoint/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../week_12/day_2/homework/ThemeParkStartPoint/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../week_12/day_2/homework/ThemeParkStartPoint/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../week_12/day_2/homework/ThemeParkStartPoint/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../week_12/day_2/homework/ThemeParkStartPoint/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../week_12/day_2/homework/ThemeParkStartPoint/ThemeParkStartPoint.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../week_12/day_3/Lab/CarDealership/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../week_12/day_3/Lab/CarDealership/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../week_12/day_3/Lab/CarDealership/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../week_12/day_3/Lab/CarDealership/CarDealership.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../week_12/day_3/Lab/CarDealership/src/main/java/Vehicles/ElectricCar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../week_12/day_3/Lab/CarDealership/src/main/java/Vehicles/HybridCar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../week_12/day_3/Lab/CarDealership/src/main/java/Vehicles/MotorCar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../week_12/day_3/Lab/CarDealership/src/main/java/Vehicles/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../week_12/day_3/Lab/CarDealership/src/main/java/components/Battery.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../week_12/day_3/Lab/CarDealership/src/main/java/components/ElectricEngine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../week_12/day_3/Lab/CarDealership/src/main/java/components/Engine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../week_12/day_3/Lab/CarDealership/src/main/java/components/PetrolEngine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../week_12/day_3/Lab/CarDealership/src/main/java/components/Tyre.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../week_12/day_3/Lab/CarDealership/src/test/java/ComponetTest/ElectricEngineTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../week_12/day_3/Lab/CarDealership/src/test/java/ComponetTest/PetrolEngineTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../week_12/day_3/Lab/CarDealership/src/test/java/VechiclesTest/ElectricCarTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../week_12/day_3/Lab/CarDealership/src/test/java/VechiclesTest/HybridCarTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../week_12/day_3/Lab/CarDealership/src/test/java/VechiclesTest/MotorCarTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../week_12/day_5/homeworkMusicShop/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../week_12/day_5/homeworkMusicShop/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../week_12/day_5/homeworkMusicShop/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../week_12/day_5/homeworkMusicShop/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../week_12/day_5/homeworkMusicShop/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../week_12/day_5/homeworkMusicShop/homeworkMusicShop.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../week_12/day_5/homeworkMusicShop/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../week_12/day_5/homeworkMusicShop/src/main/java/Shop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../week_12/day_5/homeworkMusicShop/src/main/java/behaviours/IPlay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../week_12/day_5/homeworkMusicShop/src/main/java/behaviours/ISell.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../week_12/day_5/homeworkMusicShop/src/main/java/items/Item.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../week_12/day_5/homeworkMusicShop/src/main/java/items/Piano.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../week_12/day_5/homeworkMusicShop/src/main/java/items/Violin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../week_12/day_5/homeworkMusicShop/src/test/java/ShopTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../week_12/day_5/homeworkMusicShop/src/test/java/ViolinTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../week_06/day_4/events/events_end/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../week_06/day_4/events/events_end/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../week_06/day_4/lab_events/lab_events_end/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../week_06/day_4/lab_events/lab_events_end/js/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../week_06/day_4/lab_events/lab_events_start/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../week_06/day_4/lab_events/lab_events_start/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../week_07/day_1/1_webpack/webpack_start/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../week_07/day_1/1_webpack/webpack_start/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../week_07/day_2/2_computed_properties/computed_properties_start_code/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../week_07/day_2/2_computed_properties/computed_properties_start_code/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../week_07/day_2/2_computed_properties/computed_properties_start_code/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../week_07/day_2/2_computed_properties/computed_properties_start_code/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../week_07/day_2/2_computed_properties/computed_properties_start_code/src/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../week_07/day_2/2_computed_properties/computed_properties_start_code/src/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../week_07/day_2/3_countries_lab/countries_lab_solution/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../week_07/day_2/3_countries_lab/countries_lab_solution/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../week_07/day_3/3_multiple_components_event_bus/event_bus_end/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../week_07/day_3/3_multiple_components_event_bus/event_bus_end/src/App.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../week_07/day_3/4_multi_components_lab/multi_components_lab_mvp_solution/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../week_07/day_3/4_multi_components_lab/multi_components_lab_mvp_solution/src/App.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../week_07/day_3/4_multi_components_lab/multi_components_lab_mvp_solution/src/components/CountriesList.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../week_07/day_3/4_multi_components_lab/multi_components_lab_mvp_solution/src/components/CountriesList.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../week_11/day_1/classes_homework/single_class_homework_solution/src/main/java/Printer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../week_11/day_1/classes_homework/single_class_homework_solution/src/main/java/Printer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../week_11/day_2/arrays_arraylists/arrays_end_point/src/main/java/NumberList.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../week_11/day_2/arrays_arraylists/arrays_end_point/src/main/java/NumberList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../week_11/day_2/classes_homework/classes_homework_solution/src/main/java/Borrower.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../week_11/day_2/classes_homework/classes_homework_solution/src/main/java/Borrower.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../week_11/day_2/classes_homework/classes_homework_solution/src/main/java/Library.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../week_11/day_2/classes_homework/classes_homework_solution/src/main/java/Library.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../week_11/day_3/cc_towers/cc_towers_solution/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../week_11/day_3/cc_towers/cc_towers_solution/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../week_11/day_3/cc_towers/cc_towers_solution/.idea/libraries/Maven__junit_junit_4_12.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../week_12/day_2/homework/ThemeParkStartPoint/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../week_11/day_3/cc_towers/cc_towers_solution/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../week_11/day_2/multiple_classes_lab/multiple_classes_lab_solution/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../week_11/day_3/cc_towers/cc_towers_solution/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../week_11/day_3/cc_towers/cc_towers_solution/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../week_11/day_4/enums_lab/enums_lab_solution/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../week_11/day_4/enums_lab/enums_lab_solution/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../week_11/day_4/enums_lab/enums_lab_solution/.idea/libraries/Gradle__junit_junit_4_12.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../week_11/day_4/enums_lab/enums_lab_solution/.idea/libraries/Gradle__org_hamcrest_hamcrest_core_1_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../week_11/day_4/enums_lab/enums_lab_solution/.idea/libraries/Maven__junit_junit_4_12.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../week_11/day_4/enums_lab/enums_lab_solution/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../week_11/day_4/enums_lab/enums_lab_solution/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../week_11/day_4/enums_lab/enums_lab_solution/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../week_11/day_4/enums_lab/enums_lab_solution/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../week_12/day_1/employee_lab/EmployeeLab/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../week_12/day_1/employee_lab/EmployeeLab/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../week_12/day_1/employee_lab/EmployeeLab/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../week_12/day_1/employee_lab/EmployeeLab/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../week_12/day_2/homework/ThemeParkSolution/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../week_12/day_2/homework/ThemeParkSolution/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../week_12/day_2/homework/ThemeParkSolution/src/main/java/ThemePark.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../week_12/day_2/homework/ThemeParkSolution/src/main/java/ThemePark.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../week_12/day_2/homework/ThemeParkSolution/src/test/java/attractions/RollercoasterTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../week_12/day_2/homework/ThemeParkSolution/src/test/java/attractions/RollercoasterTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../week_12/day_3/composition/composition.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../week_12/day_3/composition/composition.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../week_12/day_4/fantasy_adventure_lab/FantasyAdventureSolution/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../week_12/day_4/fantasy_adventure_lab/FantasyAdventureSolution/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../week_12/day_4/fantasy_adventure_lab/FantasyAdventureSolution/FantasyAdventure.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../week_12/day_4/fantasy_adventure_lab/FantasyAdventureSolution/src/main/java/battlebehaviours/IAttack.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../week_12/day_4/fantasy_adventure_lab/FantasyAdventureSolution/src/main/java/battlebehaviours/IAttack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../week_12/weekend_homework/weekend_homework_music_shop.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../day_2/4_hw_files_and_folders/hw_files_and_folders_solution/src/main/java/com/codeclan/example/FileSystem/repositories/FileRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../day_2/4_hw_files_and_folders/hw_files_and_folders_solution/src/main/java/com/codeclan/example/FileSystem/repositories/FileRepository.java" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="69" />
+    <option name="y" value="40" />
+    <option name="width" value="1123" />
+    <option name="height" value="713" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="js_calculator_start_point" type="b2602c69:ProjectViewProjectNode" />
+              <item name="js_calculator_start_point" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="js_calculator_start_point" type="b2602c69:ProjectViewProjectNode" />
+              <item name="js_calculator_start_point" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="js_calculator_start_point" type="b2602c69:ProjectViewProjectNode" />
+              <item name="js_calculator_start_point" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="js_calculator_start_point" type="b2602c69:ProjectViewProjectNode" />
+              <item name="js_calculator_start_point" type="462c0819:PsiDirectoryNode" />
+              <item name="tests" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="js_calculator_start_point" type="b2602c69:ProjectViewProjectNode" />
+              <item name="js_calculator_start_point" type="462c0819:PsiDirectoryNode" />
+              <item name="tests" type="462c0819:PsiDirectoryNode" />
+              <item name="integration" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4073e7a3-237d-4242-bd19-aefe9f1cd404" name="Default Changelist" comment="" />
+      <created>1568972819022</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1568972819022</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="69" y="40" width="1123" height="713" extended-state="0" />
+    <layout>
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="UI Designer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24976873" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+</project>
