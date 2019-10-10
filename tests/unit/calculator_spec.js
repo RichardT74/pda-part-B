@@ -32,13 +32,32 @@ describe('calculator', function () {
     done();
   });
 
+  it('displays concatonated number upon multiple clicks', function(){
+    calculator.numberClick(4);
+    calculator.numberClick(4);
+    assert.equal(44, calculator.runningTotal);
+  });
 
+  it('should chain multiple operators together', function () {
+  calculator.numberClick(5);
+  calculator.operatorClick('+');
+  calculator.numberClick(5);
+  calculator.operatorClick('*');
+  calculator.numberClick(10);
+  calculator.operatorClick('=');
+  assert.equal('100', calculator.runningTotal);
+});
 
+it('clear button clears displayed when clicked', function(){
+  calculator.runningTotal = 10;
+  calculator.operatorClick('-');
+  calculator.numberClick(3);
+  calculator.clearClick();
+  calculator.numberClick(5);
+  calculator.operatorClick('=');
+  const actual = calculator.runningTotal;
+  assert.equal(actual,'5');
 });
 
 
-// calculator.numberClick()
-//
-// it('successfully runs when two numbers are used', () => {
-//   assert.equal(operations.validateNumbers(5, 5), true);
-// });
+});
